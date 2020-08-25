@@ -25,6 +25,14 @@
 ## Environment
 - Rustc 1.45.2 (d3fb005a3 2020-07-31)
 - Cargo 1.45.1 (f242df6ed 2020-07-22)
+- Rustup 1.22.1 (b01adbbc3 2020-07-08)
+
+- Toolchains
+  - stable-x86_64-pc-windows-msvc (default)
+  - nightly-x86_64-pc-windows-msvc
+
+- System-Level Crates
+  - Cargo-expand 1.0.0
 
 ## Resources
 - [Comprehensive List of Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures "Wikipedia: DS List")
